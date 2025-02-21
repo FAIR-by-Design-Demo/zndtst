@@ -49,8 +49,8 @@ citation:
       affiliation: Organization
   title: "Training Name"
   abstract: "Training description"
-  version: 1.0.2
-  doi: 10.5281/zenodo.167555
+  version: 1.0.3
+  doi: 10.5281/zenodo.171769
   date-released: '2025'
   license: CC-BY-4.0
   license-url: "https://creativecommons.org/licenses/by/4.0/legalcode.txt"
