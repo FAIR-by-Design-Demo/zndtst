@@ -12,7 +12,7 @@ abstract: "A brief synopsis about or description of the learning resource."
 primaryLanguage: "two letter code, Language in which the resource was originally published or made available."
 license: "A license document that applies to this content, typically indicated by URL"
 versionDate: "YYYY-MM-DD Version date for the most recently published or broadcast resource."
-urlToResource: "https://doi.org/10.5281/zenodo.167555"
+urlToResource: "https://doi.org/10.5281/zenodo.171769"
 resourceURLType: "URL"
 targetGroup: "Principle users(s) for which the resource was designed."
 learningResourceType: "The predominant type or kind that characterizes the learning resource."
@@ -117,7 +117,7 @@ Keywords or tags used to describe the training.
 
 ## DOI
 
-[https://doi.org/10.5281/zenodo.167555](https://doi.org/10.5281/zenodo.167555)
+[https://doi.org/10.5281/zenodo.171769](https://doi.org/10.5281/zenodo.171769)
 
 ## Accessibility Mission
 
